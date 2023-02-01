@@ -1,19 +1,7 @@
 #-----------------
+#
 # Little quiz
-# This is little Quiz, made in 2023 by Alexis.D AKA Aldbg74
 #
-# French enthousiast dev
-#
-# This is a Quiz python program (Oh what a suprise, i guess you didn't know it isn't it ?)
-# You have serval questions made by me (i'm a men of culture as well)
-# You need to answer to all of it to have your final score
-# A good answer give you a point a wrong answer give you nothing (yeah i know it's so difficult to understand you need long studies for it guess sorry not sorry ?)
-#
-# You can modify the files to make your own questions.
-# Not gonna explain you how to do it's easy as least you can read (So if you reading me it's ok u can do it, i belive in you)
-#
-#Alexis.D
-#2023
 #-----------------
 
 #-----------------
