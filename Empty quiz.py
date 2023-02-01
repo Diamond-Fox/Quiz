@@ -90,13 +90,3 @@ while play_again():
 print ("Bye")
 
 #-----------------
-
-#The end
-
-#Play the gitar like young satana
-
-# TO BE ADDED (Maybe)
-
-# random.randint for the questions
-# More questions
-# MORE questions
